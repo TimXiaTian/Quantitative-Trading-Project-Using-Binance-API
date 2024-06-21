@@ -1,0 +1,454 @@
+2024-06-15 15:43:23,908 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-15 15:45:42,673 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-15 15:45:42,673 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-15 15:45:43,073 [MainThread  ] [INFO ]  Iteration complete. Sleeping for one hour.
+2024-06-15 16:45:43,076 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-15 16:49:13,892 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-15 16:49:13,894 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-15 16:49:14,259 [MainThread  ] [INFO ]  Iteration complete. Sleeping for one hour.
+2024-06-15 17:49:14,260 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-15 17:52:35,046 [MainThread  ] [INFO ]  Sending market order: Symbol: XRPUSDT, Side: BUY, Quantity: 1.0
+2024-06-15 17:52:35,354 [MainThread  ] [INFO ]  Filled price for XRPUSDT: {'code': -4164, 'msg': "Order's notional must be no smaller than 5 (unless you choose reduce only)."}
+2024-06-15 17:52:35,355 [MainThread  ] [INFO ]  Sending market order: Symbol: BCHUSDT, Side: SELL, Quantity: 0.00018084142139976645
+2024-06-15 17:52:35,647 [MainThread  ] [INFO ]  Filled price for BCHUSDT: {'code': -1111, 'msg': 'Precision is over the maximum defined for this asset.'}
+2024-06-15 17:52:36,056 [MainThread  ] [INFO ]  Iteration complete. Sleeping for one hour.
+2024-06-15 18:52:36,057 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-15 18:56:05,059 [MainThread  ] [INFO ]  Sending market order: Symbol: XRPUSDT, Side: SELL, Quantity: 1.0
+2024-06-15 18:56:05,189 [MainThread  ] [INFO ]  Filled price for XRPUSDT: {'code': -4164, 'msg': "Order's notional must be no smaller than 5 (unless you choose reduce only)."}
+2024-06-15 18:56:05,190 [MainThread  ] [INFO ]  Sending market order: Symbol: BCHUSDT, Side: BUY, Quantity: 0.00018084142139976645
+2024-06-15 18:56:05,324 [MainThread  ] [INFO ]  Filled price for BCHUSDT: {'code': -1111, 'msg': 'Precision is over the maximum defined for this asset.'}
+2024-06-15 18:56:05,718 [MainThread  ] [INFO ]  Iteration complete. Sleeping for one hour.
+2024-06-15 19:56:05,719 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-15 19:59:25,680 [MainThread  ] [INFO ]  Sending market order: Symbol: XRPUSDT, Side: BUY, Quantity: 1.0
+2024-06-15 19:59:26,060 [MainThread  ] [INFO ]  Filled price for XRPUSDT: {'code': -4164, 'msg': "Order's notional must be no smaller than 5 (unless you choose reduce only)."}
+2024-06-15 19:59:26,061 [MainThread  ] [INFO ]  Sending market order: Symbol: BCHUSDT, Side: SELL, Quantity: 0.00018046547262526216
+2024-06-15 19:59:26,471 [MainThread  ] [INFO ]  Filled price for BCHUSDT: {'code': -1111, 'msg': 'Precision is over the maximum defined for this asset.'}
+2024-06-15 19:59:26,940 [MainThread  ] [INFO ]  Iteration complete. Sleeping for one hour.
+2024-06-15 22:19:12,727 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-15 22:28:13,307 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-15 22:28:13,307 [MainThread  ] [INFO ]  Sending market order: Symbol: BCHUSDT, Side: BUY, Quantity: 4.592842929137717e-07
+2024-06-15 22:28:13,660 [MainThread  ] [INFO ]  Filled price for BCHUSDT: {'code': -1111, 'msg': 'Precision is over the maximum defined for this asset.'}
+2024-06-15 22:28:14,660 [MainThread  ] [INFO ]  Iteration complete. Sleeping for one hour.
+2024-06-16 06:15:21,857 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-16 06:21:34,554 [MainThread  ] [INFO ]  Sending market order: Symbol: XRPUSDT, Side: SELL, Quantity: 1.0
+2024-06-16 06:21:34,974 [MainThread  ] [INFO ]  Filled price for XRPUSDT: {'code': -4164, 'msg': "Order's notional must be no smaller than 5 (unless you choose reduce only)."}
+2024-06-16 06:21:34,974 [MainThread  ] [INFO ]  Sending market order: Symbol: BCHUSDT, Side: BUY, Quantity: 0.00018000618833234838
+2024-06-16 06:21:35,107 [MainThread  ] [INFO ]  Filled price for BCHUSDT: {'code': -1111, 'msg': 'Precision is over the maximum defined for this asset.'}
+2024-06-16 06:21:35,431 [MainThread  ] [INFO ]  Iteration complete. Sleeping for one hour.
+2024-06-16 07:21:35,448 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-16 07:24:43,072 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-16 07:24:43,072 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-16 07:24:43,422 [MainThread  ] [INFO ]  Iteration complete. Sleeping for one hour.
+2024-06-16 08:24:43,433 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-16 08:27:42,599 [MainThread  ] [INFO ]  Sending market order: Symbol: XRPUSDT, Side: BUY, Quantity: 1.0
+2024-06-16 08:27:42,994 [MainThread  ] [INFO ]  Filled price for XRPUSDT: {'code': -4164, 'msg': "Order's notional must be no smaller than 5 (unless you choose reduce only)."}
+2024-06-16 08:27:42,995 [MainThread  ] [INFO ]  Sending market order: Symbol: BCHUSDT, Side: SELL, Quantity: 0.00017792095480591871
+2024-06-16 08:27:43,276 [MainThread  ] [INFO ]  Filled price for BCHUSDT: {'code': -1111, 'msg': 'Precision is over the maximum defined for this asset.'}
+2024-06-16 08:27:43,729 [MainThread  ] [INFO ]  Iteration complete. Sleeping for one hour.
+2024-06-16 09:27:43,736 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-16 09:30:48,652 [MainThread  ] [INFO ]  Sending market order: Symbol: XRPUSDT, Side: SELL, Quantity: 1.0
+2024-06-16 09:30:48,950 [MainThread  ] [INFO ]  Filled price for XRPUSDT: {'code': -4164, 'msg': "Order's notional must be no smaller than 5 (unless you choose reduce only)."}
+2024-06-16 09:30:48,950 [MainThread  ] [INFO ]  Sending market order: Symbol: BCHUSDT, Side: BUY, Quantity: 0.00017792095480591871
+2024-06-16 09:30:49,202 [MainThread  ] [INFO ]  Filled price for BCHUSDT: {'code': -1111, 'msg': 'Precision is over the maximum defined for this asset.'}
+2024-06-16 09:30:49,531 [MainThread  ] [INFO ]  Iteration complete. Sleeping for one hour.
+2024-06-16 10:30:49,545 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-16 10:33:36,536 [MainThread  ] [INFO ]  Sending market order: Symbol: XRPUSDT, Side: BUY, Quantity: 1.0
+2024-06-16 10:33:36,867 [MainThread  ] [INFO ]  Filled price for XRPUSDT: {'code': -4164, 'msg': "Order's notional must be no smaller than 5 (unless you choose reduce only)."}
+2024-06-16 10:33:36,867 [MainThread  ] [INFO ]  Sending market order: Symbol: BCHUSDT, Side: SELL, Quantity: 0.0001775864829239223
+2024-06-16 10:33:37,180 [MainThread  ] [INFO ]  Filled price for BCHUSDT: {'code': -1111, 'msg': 'Precision is over the maximum defined for this asset.'}
+2024-06-16 10:33:37,558 [MainThread  ] [INFO ]  Iteration complete. Sleeping for one hour.
+2024-06-16 11:33:37,572 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-16 11:36:30,725 [MainThread  ] [INFO ]  Sending market order: Symbol: XRPUSDT, Side: SELL, Quantity: 1.0
+2024-06-16 11:36:31,292 [MainThread  ] [INFO ]  Filled price for XRPUSDT: {'code': -4164, 'msg': "Order's notional must be no smaller than 5 (unless you choose reduce only)."}
+2024-06-16 11:36:31,292 [MainThread  ] [INFO ]  Sending market order: Symbol: BCHUSDT, Side: BUY, Quantity: 0.0001775864829239223
+2024-06-16 11:36:31,794 [MainThread  ] [INFO ]  Filled price for BCHUSDT: {'code': -1111, 'msg': 'Precision is over the maximum defined for this asset.'}
+2024-06-16 11:36:32,139 [MainThread  ] [INFO ]  Iteration complete. Sleeping for one hour.
+2024-06-16 12:36:32,144 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-16 12:38:32,882 [MainThread  ] [INFO ]  Sending market order: Symbol: XRPUSDT, Side: BUY, Quantity: 1.0
+2024-06-16 12:38:32,992 [MainThread  ] [INFO ]  Filled price for XRPUSDT: {'code': -4164, 'msg': "Order's notional must be no smaller than 5 (unless you choose reduce only)."}
+2024-06-16 12:38:32,992 [MainThread  ] [INFO ]  Sending market order: Symbol: BCHUSDT, Side: SELL, Quantity: 0.00017714498830852653
+2024-06-16 12:38:33,102 [MainThread  ] [INFO ]  Filled price for BCHUSDT: {'code': -1111, 'msg': 'Precision is over the maximum defined for this asset.'}
+2024-06-16 12:38:33,339 [MainThread  ] [INFO ]  Iteration complete. Sleeping for one hour.
+2024-06-16 13:38:33,344 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-16 13:40:52,884 [MainThread  ] [INFO ]  Sending market order: Symbol: XRPUSDT, Side: SELL, Quantity: 1.0
+2024-06-16 13:40:53,225 [MainThread  ] [INFO ]  Filled price for XRPUSDT: {'code': -4164, 'msg': "Order's notional must be no smaller than 5 (unless you choose reduce only)."}
+2024-06-16 13:40:53,225 [MainThread  ] [INFO ]  Sending market order: Symbol: BCHUSDT, Side: BUY, Quantity: 0.00017714498830852653
+2024-06-16 13:40:53,381 [MainThread  ] [INFO ]  Filled price for BCHUSDT: {'code': -1111, 'msg': 'Precision is over the maximum defined for this asset.'}
+2024-06-16 13:40:53,619 [MainThread  ] [INFO ]  Iteration complete. Sleeping for one hour.
+2024-06-16 14:40:53,622 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-16 14:43:10,133 [MainThread  ] [INFO ]  Sending market order: Symbol: XRPUSDT, Side: BUY, Quantity: 1.0
+2024-06-16 14:43:10,243 [MainThread  ] [INFO ]  Filled price for XRPUSDT: {'code': -4164, 'msg': "Order's notional must be no smaller than 5 (unless you choose reduce only)."}
+2024-06-16 14:43:10,243 [MainThread  ] [INFO ]  Sending market order: Symbol: BCHUSDT, Side: SELL, Quantity: 0.00017681643055124114
+2024-06-16 14:43:10,353 [MainThread  ] [INFO ]  Filled price for BCHUSDT: {'code': -1111, 'msg': 'Precision is over the maximum defined for this asset.'}
+2024-06-16 14:43:10,606 [MainThread  ] [INFO ]  Iteration complete. Sleeping for one hour.
+2024-06-16 17:18:53,180 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-16 17:22:49,800 [MainThread  ] [INFO ]  Sending market order: Symbol: XRPUSDT, Side: BUY, Quantity: 1.0
+2024-06-16 17:22:50,621 [MainThread  ] [INFO ]  Filled price for XRPUSDT: {'code': -4164, 'msg': "Order's notional must be no smaller than 5 (unless you choose reduce only)."}
+2024-06-16 17:22:50,621 [MainThread  ] [INFO ]  Sending market order: Symbol: BCHUSDT, Side: SELL, Quantity: 0.0001764744199941023
+2024-06-16 17:22:50,796 [MainThread  ] [INFO ]  Filled price for BCHUSDT: {'code': -1111, 'msg': 'Precision is over the maximum defined for this asset.'}
+2024-06-16 17:22:51,412 [MainThread  ] [INFO ]  Iteration complete. Sleeping for one hour.
+2024-06-16 18:40:29,916 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-16 21:36:32,374 [MainThread  ] [INFO ]  Sending market order: Symbol: XRPUSDT, Side: SELL, Quantity: 1.0
+2024-06-16 21:36:32,896 [MainThread  ] [INFO ]  Filled price for XRPUSDT: {'code': -4164, 'msg': "Order's notional must be no smaller than 5 (unless you choose reduce only)."}
+2024-06-16 21:36:32,896 [MainThread  ] [INFO ]  Sending market order: Symbol: BCHUSDT, Side: BUY, Quantity: 0.0001764744199941023
+2024-06-16 21:36:33,053 [MainThread  ] [INFO ]  Filled price for BCHUSDT: {'code': -1111, 'msg': 'Precision is over the maximum defined for this asset.'}
+2024-06-16 21:36:34,094 [MainThread  ] [INFO ]  Iteration complete. Sleeping for one hour.
+2024-06-17 15:31:59,050 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 19:51:44,870 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 19:54:38,963 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-18 19:54:38,963 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 19:54:39,283 [MainThread  ] [INFO ]  Iteration complete. Sleeping for one hour.
+2024-06-18 19:54:49,284 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 19:57:28,046 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-18 19:57:28,046 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 19:57:28,311 [MainThread  ] [INFO ]  Iteration complete. Sleeping for one hour.
+2024-06-18 19:57:38,313 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 19:59:48,887 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-18 19:59:48,887 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 19:59:49,154 [MainThread  ] [INFO ]  Iteration complete. Sleeping for one hour.
+2024-06-18 19:59:59,155 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 20:02:26,766 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-18 20:02:26,766 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 20:02:27,047 [MainThread  ] [INFO ]  Iteration complete. Sleeping for one hour.
+2024-06-18 20:02:37,048 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 20:04:58,917 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-18 20:04:58,917 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 20:04:59,343 [MainThread  ] [INFO ]  Iteration complete. Sleeping for one hour.
+2024-06-18 20:05:09,350 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 20:08:17,446 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-18 20:08:17,446 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 20:08:17,725 [MainThread  ] [INFO ]  Iteration complete. Sleeping for one hour.
+2024-06-18 20:08:27,726 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 20:11:36,600 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-18 20:11:36,600 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 20:11:37,025 [MainThread  ] [INFO ]  Iteration complete. Sleeping for one hour.
+2024-06-18 20:11:47,032 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 20:14:46,582 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-18 20:14:46,582 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 20:14:46,992 [MainThread  ] [INFO ]  Iteration complete. Sleeping for one hour.
+2024-06-18 20:14:56,995 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 20:17:35,859 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-18 20:17:35,859 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 20:17:36,159 [MainThread  ] [INFO ]  Iteration complete. Sleeping for one hour.
+2024-06-18 20:17:46,159 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 20:18:08,246 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 20:20:13,782 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 20:21:06,924 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 20:23:13,817 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-18 20:23:13,817 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 20:23:14,090 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-18 20:23:24,091 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 20:26:04,395 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-18 20:26:04,395 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 20:26:04,683 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-18 20:26:14,688 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 20:29:26,976 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-18 20:29:26,976 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 20:29:27,291 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-18 20:29:37,292 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 20:32:45,243 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-18 20:32:45,243 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 20:32:45,568 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-18 20:32:55,568 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 20:35:26,510 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-18 20:35:26,510 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 20:35:26,788 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-18 20:35:36,789 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 20:38:54,596 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-18 20:38:54,596 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 20:38:54,903 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-18 20:39:04,904 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 20:42:06,569 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-18 20:42:06,569 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 20:42:06,948 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-18 20:42:16,949 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 20:45:01,713 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-18 20:45:01,713 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 20:45:02,014 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-18 20:45:12,015 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 20:48:02,224 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-18 20:48:02,224 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 20:48:02,470 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-18 20:48:12,472 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 20:50:52,963 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-18 20:50:52,964 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 20:50:53,243 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-18 20:51:03,250 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 20:54:22,640 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-18 20:54:22,640 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 20:54:22,964 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-18 20:54:32,980 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 20:57:37,052 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-18 20:57:37,052 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 20:57:37,320 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-18 20:57:47,329 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 21:00:59,030 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-18 21:00:59,030 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 21:00:59,329 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-18 21:01:09,340 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 21:03:26,841 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-18 21:03:26,841 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 21:03:27,075 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-18 21:03:37,076 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 21:06:36,237 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-18 21:06:36,237 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 21:06:36,521 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-18 21:06:46,532 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 21:10:06,424 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-18 21:10:06,424 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 21:10:06,760 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-18 21:10:16,765 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 21:13:24,861 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-18 21:13:24,861 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 21:13:25,224 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-18 21:13:35,227 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 21:16:51,439 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-18 21:16:51,439 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 21:16:51,743 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-18 21:17:01,746 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 21:20:01,868 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-18 21:20:01,869 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 21:20:02,209 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-18 21:20:12,210 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 21:23:19,100 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-18 21:23:19,101 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 21:23:19,443 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-18 21:23:29,444 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 21:26:39,395 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-18 21:26:39,395 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 21:26:39,680 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-18 21:26:49,681 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 21:30:02,914 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-18 21:30:02,914 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 21:30:03,240 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-18 21:30:13,249 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 21:33:37,649 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-18 21:33:37,649 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 21:33:37,972 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-18 21:33:47,981 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 21:36:51,978 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-18 21:36:51,978 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 21:36:52,199 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-18 21:37:02,200 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 21:40:03,120 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-18 21:40:03,120 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 21:40:03,428 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-18 21:40:13,429 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 21:43:20,153 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-18 21:43:20,153 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 21:43:20,484 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-18 21:43:30,493 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 21:46:31,447 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-18 21:46:31,447 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 21:46:31,772 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-18 21:46:41,773 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 21:49:38,216 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-18 21:49:38,216 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 21:49:38,546 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-18 21:49:48,555 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 21:52:51,897 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-18 21:52:51,897 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 21:52:52,196 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-18 21:53:02,201 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 21:56:05,119 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-18 21:56:05,119 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 21:56:05,402 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-18 21:56:15,418 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 21:59:15,689 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-18 21:59:15,689 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 21:59:15,956 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-18 21:59:25,960 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 22:02:25,813 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-18 22:02:25,813 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 22:02:26,160 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-18 22:02:36,167 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 22:05:30,424 [MainThread  ] [INFO ]  Sending market order: Symbol: XRPUSDT, Side: BUY, Quantity: 1000.0
+2024-06-18 22:05:30,601 [MainThread  ] [INFO ]  Filled price for XRPUSDT: {'code': -4131, 'msg': "The counterparty's best price does not meet the PERCENT_PRICE filter limit."}
+2024-06-18 22:05:30,601 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 22:05:30,886 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-18 22:05:40,887 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 22:08:54,909 [MainThread  ] [INFO ]  Sending market order: Symbol: XRPUSDT, Side: SELL, Quantity: 1000.0
+2024-06-18 22:08:55,145 [MainThread  ] [INFO ]  Filled price for XRPUSDT: {'orderId': 258243298, 'symbol': 'XRPUSDT', 'status': 'NEW', 'clientOrderId': 'iz4LNaNV6Wom43KkpNvZRi', 'price': '0.0000', 'avgPrice': '0.00', 'origQty': '1000.0', 'executedQty': '0.0', 'cumQty': '0.0', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.0000', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'NONE', 'goodTillDate': 0, 'updateTime': 1718719735948}
+2024-06-18 22:08:55,145 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 22:08:55,479 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-18 22:09:05,481 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 22:12:20,266 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-18 22:12:20,266 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 22:12:20,550 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-18 22:12:30,554 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 22:15:27,735 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-18 22:15:27,735 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 22:15:28,067 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-18 22:15:38,081 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 22:18:40,514 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-18 22:18:40,514 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 22:18:40,824 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-18 22:18:50,832 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 22:21:56,406 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-18 22:21:56,407 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 22:21:56,709 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-18 22:22:06,712 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 22:25:11,482 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-18 22:25:11,482 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 22:25:11,816 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-18 22:25:21,818 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 22:30:07,045 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-18 22:30:07,045 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 22:30:07,411 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-18 22:30:17,412 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 22:33:42,967 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-18 22:33:42,967 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 22:33:43,323 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-18 22:33:53,325 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 22:37:09,166 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-18 22:37:09,182 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 22:37:09,512 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-18 22:37:19,515 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 22:40:26,585 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-18 22:40:26,585 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 22:40:26,901 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-18 22:40:36,913 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-18 22:43:42,082 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-18 22:43:42,082 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-18 22:43:42,367 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-18 22:43:52,368 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-19 01:44:23,102 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-19 01:44:23,102 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-19 01:44:23,424 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-19 01:44:33,428 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-19 01:47:55,722 [MainThread  ] [INFO ]  Sending market order: Symbol: XRPUSDT, Side: BUY, Quantity: 1000.0
+2024-06-19 01:47:55,879 [MainThread  ] [INFO ]  Filled price for XRPUSDT: {'code': -4131, 'msg': "The counterparty's best price does not meet the PERCENT_PRICE filter limit."}
+2024-06-19 01:47:55,879 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-19 01:47:56,241 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-19 01:48:06,242 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-19 01:51:26,831 [MainThread  ] [INFO ]  Sending market order: Symbol: XRPUSDT, Side: SELL, Quantity: 1000.0
+2024-06-19 01:51:27,053 [MainThread  ] [INFO ]  Filled price for XRPUSDT: {'orderId': 258244752, 'symbol': 'XRPUSDT', 'status': 'NEW', 'clientOrderId': 'HxMVDldVcPh36POVn6vQyN', 'price': '0.0000', 'avgPrice': '0.00', 'origQty': '1000.0', 'executedQty': '0.0', 'cumQty': '0.0', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.0000', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'NONE', 'goodTillDate': 0, 'updateTime': 1718733087896}
+2024-06-19 01:51:27,053 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-19 01:51:27,392 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-19 01:51:37,397 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-19 01:54:46,990 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-19 01:54:46,990 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-19 01:54:47,324 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-19 01:54:57,325 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-19 01:58:09,207 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-19 01:58:09,207 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-19 01:58:09,609 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-19 01:58:19,610 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-19 02:01:29,204 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-19 02:01:29,204 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-19 02:01:29,591 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-19 02:01:39,592 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-19 02:04:49,779 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-19 02:04:49,779 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-19 02:04:50,062 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-19 02:05:00,071 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-19 02:08:09,763 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-19 02:08:09,764 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-19 02:08:10,103 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-19 02:08:20,104 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-19 02:11:40,025 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-19 02:11:40,025 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-19 02:11:40,358 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-19 02:11:50,359 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-20 17:27:43,458 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-20 17:30:17,289 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-20 17:30:17,289 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-20 17:39:31,291 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-20 17:41:57,702 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-20 17:41:57,702 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-20 17:41:58,065 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-20 17:42:08,066 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-20 17:43:51,226 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-20 17:46:20,370 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-20 17:46:20,370 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-20 17:46:20,717 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-20 17:46:30,720 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-20 17:49:31,982 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-20 17:49:31,982 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-20 17:49:32,239 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-20 17:49:42,240 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-20 17:51:58,369 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-20 17:51:58,369 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-20 17:51:58,679 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-20 17:52:08,681 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-20 17:54:51,529 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-20 17:54:51,529 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-20 17:54:51,834 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-20 17:55:01,836 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-20 17:57:22,837 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-20 17:57:22,837 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-20 17:57:23,100 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-20 17:57:33,103 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-20 17:59:51,963 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-20 17:59:51,963 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-20 18:09:39,879 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-20 18:12:05,689 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-20 18:12:05,689 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-20 18:12:06,091 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-20 18:12:16,092 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-20 18:14:44,419 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-20 18:31:06,697 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-20 18:32:33,215 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-20 18:32:52,766 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-20 18:35:22,365 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-20 18:35:22,365 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-20 18:35:22,723 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-20 18:35:32,723 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-20 18:38:12,012 [MainThread  ] [INFO ]  Sending market order: Symbol: XRPUSDT, Side: SELL, Quantity: 1000.0
+2024-06-20 18:38:12,140 [MainThread  ] [INFO ]  Filled price for XRPUSDT: {'orderId': 258255762, 'symbol': 'XRPUSDT', 'status': 'NEW', 'clientOrderId': 'kE3PJ323vHs1kW61saZmwH', 'price': '0.0000', 'avgPrice': '0.00', 'origQty': '1000.0', 'executedQty': '0.0', 'cumQty': '0.0', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.0000', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'NONE', 'goodTillDate': 0, 'updateTime': 1718879892013}
+2024-06-20 18:38:12,140 [MainThread  ] [INFO ]  Sending market order: Symbol: BCHUSDT, Side: BUY, Quantity: 0.0565
+2024-06-20 18:38:12,256 [MainThread  ] [INFO ]  Filled price for BCHUSDT: {'code': -1111, 'msg': 'Precision is over the maximum defined for this asset.'}
+2024-06-20 18:38:12,556 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-20 18:38:22,557 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-20 18:54:27,057 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-20 18:55:56,947 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-20 19:16:40,623 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-20 19:22:09,738 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-20 19:23:19,630 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-20 19:28:00,494 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-20 19:28:33,055 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-20 19:31:14,833 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-20 19:31:14,833 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-20 19:31:15,164 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-20 19:31:25,165 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-20 19:33:49,368 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-20 19:33:49,368 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-20 19:33:49,631 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-20 19:33:59,632 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-20 19:36:33,678 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-20 19:36:33,678 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-20 19:36:33,972 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-20 19:36:43,973 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-20 19:39:02,253 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-20 19:40:26,934 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-20 19:40:55,342 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-20 19:42:59,010 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-20 19:43:06,201 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-20 19:45:54,839 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-20 19:45:54,839 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-20 19:45:55,445 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-20 19:46:05,446 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-20 19:49:06,397 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-20 19:49:06,397 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-20 19:49:06,818 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-20 19:49:16,820 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-20 19:51:49,572 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-20 19:54:43,066 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-20 19:54:43,066 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-20 19:54:43,991 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 10s.
+2024-06-20 19:57:42,098 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-20 20:01:14,911 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-20 20:01:14,911 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-20 20:01:15,598 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 1hr.
+2024-06-20 21:01:15,621 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-20 21:04:50,694 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-20 21:04:50,694 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-20 21:04:51,355 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 1hr.
+2024-06-20 22:04:51,363 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-20 22:07:58,484 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-20 22:07:58,484 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-20 22:07:59,169 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 1hr.
+2024-06-21 13:23:41,553 [MainThread  ] [INFO ]  Starting a new iteration of the trading loop.
+2024-06-21 13:26:51,457 [MainThread  ] [INFO ]  No change in position for XRPUSDT. No order sent.
+2024-06-21 13:26:51,457 [MainThread  ] [INFO ]  No change in position for BCHUSDT. No order sent.
+2024-06-21 13:26:51,879 [MainThread  ] [INFO ]  Iteration complete. Sleeping for 1hr.
